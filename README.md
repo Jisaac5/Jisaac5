@@ -9,6 +9,9 @@ I got into CS because I spend a lot of time on my computer and wanted to know wh
 
 📝 **Some things I want to do include...**
 - Creating at least one (1) complete game with my own code and assets using Godot (free and open source!)
+
+(hyperlink test?)[https://godotengine.org/]
+
 - Eventually develop a bigger game after building up some experience by making smaller-scale projects first (maybe even something I'm confident enough in to distribute)
 - Get around to setting up a Linux-based rig
 
