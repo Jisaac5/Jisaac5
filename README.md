@@ -29,4 +29,4 @@ I got into CS because I spend a lot of time on my computer and wanted to know wh
 - Push changes to a local repository to a remote one.
 
 `git pull`<br>
-- "Pull" changes from a remote version of a local repository to get it up to date.
+- "Pull" changes from a remote repository to its local version to get it up to date.
