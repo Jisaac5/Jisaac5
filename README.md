@@ -8,8 +8,7 @@ I got into CS because I spend a lot of time on my computer and wanted to know wh
 *Moving image of fish spinning...  On the internet... Truly a marvel of human engineering*
 
 📝 **Some things I want to do include...**
-- Creating at least one (1) complete game with my own code and assets using [Godot] *(free and open source!)*
-[Godot]:https://godotengine.org/
+- Creating at least one (1) complete game with my own code and assets using [Godot](https://godotengine.org/) *(free and open source!)*
 - Eventually develop a bigger game after building up some experience by making smaller-scale projects first (maybe even something I'm confident enough in to distribute)
 - Get around to setting up a Linux-based rig
 
