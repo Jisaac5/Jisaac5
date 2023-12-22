@@ -3,7 +3,9 @@ I'm **Jiro Serote**, a 2nd Year Computer Science student at **Malayan Colleges L
 
 I got into CS because I spend a lot of time on my computer and wanted to know what's goin on in this thing for it to be able to run videogames and whatnot and how I can create stuff like that on my own.
 
-![G-Witch GIF](https://media1.tenor.com/m/fWKZ6aYM9eEAAAAC/gundam-gundam-the-witch-from-mercury.gif)
+![spinning fish gif](https://media1.tenor.com/m/fWKZ6aYM9eEAAAAd/gundam-gundam-the-witch-from-mercury.gif)
+
+*Moving image of fish spinning...  On the internet... Truly a marvel of human engineering*
 
 📝 **Some things I want to do include...**
 - Creating at least one (1) complete game with my own code and assets using [Godot](https://godotengine.org/) *(free and open source!)*
