@@ -13,14 +13,16 @@ I got into CS because I spend a lot of time on my computer and wanted to know wh
 - Get around to setting up a Linux-based rig
 
 ## 📖 Cheat sheet 
-`git version`
-Use to check if git is installed, and what version is currently installed if it is.
+`git version`\
+- Use to check if git is installed, and what version is currently installed if it is.
 
-`git init`
-Initialize a Git repository.
+`git init`\
+- Initialize a Git repository.
 
-`git add`
-Use to add files to commit. File name comes after "add" `git add [filename]`. Use `git add .` to stage all available files.
+`git add`\
+- Use to add files to commit. File name comes after "add" `git add [filename]`. Use `git add .` to stage all available files.
 
-`git commit`
-Use to commit changes. To add a description to the commit, use `git commit -m "[message here]"`.
+`git commit`\
+- Use to commit changes. To add a description to the commit, use `git commit -m "[message here]"`.
+
+`git push`
