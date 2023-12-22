@@ -14,16 +14,19 @@ I got into CS because I spend a lot of time on my computer and wanted to know wh
 
 ## 📖 Cheat sheet 
 `git version`<br>
-- Use to check if git is installed, and what version is currently installed if it is.
+- Check if git is installed, and what version is currently installed if it is.
 
 `git init`<br>
 - Initialize a Git repository.
 
 `git add`<br>
-- Use to add files to commit. File name comes after "add" `git add [filename]`. Use `git add .` to stage all available files.
+- Add files to commit. File name comes after "add" `git add [filename]`. Use `git add .` to stage all available files.
 
 `git commit`<br>
-- Use to commit changes. To add a description to the commit, use `git commit -m "[message here]"`.
+- Commit changes in a repository. To add a description to the commit, use `git commit -m "[message here]"`.
 
 `git push`<br>
-- Use to push changes to a local repository to a remote one.
+- Push changes to a local repository to a remote one.
+
+`git pull`<br>
+- "Pull" changes from a remote version of a local repository to get it up to date.
